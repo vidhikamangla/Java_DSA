@@ -1,9 +1,9 @@
 // Ques 10: 
 // n = 5 
  
-// * * * * * * * * * 
-//   * * * * * * *
-//     * * * * *
+// * * * * * * * * *        
+//   * * * * * * *         
+//     * * * * *  
 //       * * *
 //         *
 import java.util.Scanner;
@@ -13,13 +13,7 @@ public class Pattern10 {
         int n=sc.nextInt();
         sc.close();
         for (int i=n;i>0;i--){
-            for (int j=n;j>i;j--){
-                System.out.print("  ");
-            }
-            for(int j=0;j<2*i-1;j++){
-                System.out.print("* ");
-            }
-            System.out.println();
+
         }
     }
 }

@@ -1,3 +1,2 @@
-for (int j=n;j>i;j++){
-            //     System.out.print("* ");
-            // }
+Q16
+// n=5

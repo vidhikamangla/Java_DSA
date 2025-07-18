@@ -6,10 +6,15 @@
 //     5 6 7 8 9 
 //   10 11 12 13 14 15 16 
 // 17 18 19 20 21 22 23 24 25
+
+import java.util.Scanner;
+
 public class Pattern25 {
     public static void main(String args[]){
+        Scanner sc=new Scanner(System.in);
         // observation
-        int n=5;
+        System.out.print("Enter the value of n: ");
+        int n=sc.nextInt();
         int row=1;
         int nst=1;
         int nsp=n-1;
@@ -17,7 +22,6 @@ public class Pattern25 {
 
         while(row<=n){
 
-            // printing spaces
             int i=1;
             while(i<=nsp){
                 System.out.print(" "+" ");
@@ -37,5 +41,6 @@ public class Pattern25 {
             System.out.println();
             row++;
         }
+        sc.close();
     }
 }

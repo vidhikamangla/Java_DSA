@@ -2,13 +2,12 @@
 // n = 5 
  
 //         1  
-//       1 2 1 
-//     1 2 3 2 1
-//   1 2 3 4 3 2 1
-// 1 2 3 4 5 4 3 2 1
-
+//       2 3 2 
+//     3 4 5 4 3
+//   4 5 6 7 6 5 4
+// 5 6 7 8 9 8 7 6 5
 import java.util.Scanner;
-public class Pattern27 {
+public class Pattern28 {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         // observation
@@ -17,9 +16,9 @@ public class Pattern27 {
         int row=1;
         int nst=1;
         int nsp=n-1;
+        int val=1;
 
         while(row<=n){
-
             // printing spaces
             int i=1;
             while(i<=nsp){
@@ -27,7 +26,6 @@ public class Pattern27 {
                 i++;
             }
             int j=1;
-            int val=1;
             while(j<=nst){
                 System.out.print(val+" ");
                 if (j>nst/2){
@@ -42,10 +40,10 @@ public class Pattern27 {
             // prep for next row
             nsp--;
             nst+=2;
+            val+=2;
             System.out.println();
             row++;
         }
         sc.close();
     }
-    
 }

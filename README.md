@@ -1,5 +1,6 @@
 # DSA in Java Language
-![java-programming-language-programmer-computer-programming-logo-png-favpng-fhppYS113xSPzB7babpSMhrfP](https://github.com/user-attachments/assets/28bdda1f-ba30-437a-bccc-8601e642925f)
+<img src="https://github.com/user-attachments/assets/860705c0-ba49-4316-b074-1dea390d4358" alt="Java Logo" width="100"/>
+
 
 This repository tracks my journey of learning **Data Structures & Algorithms (DSA) in Java**.
 It includes **core concept implementations** and **problem solutions** from platforms like **LeetCode**.
@@ -67,6 +68,7 @@ java FileName
 ```
 
 ---
+![Vidhika's GitHub stats](https://leetcard.jacoblin.cool/vidhikamangla?theme=synthwave&font=Poppins&ext=heatmap)
 
 ## Goals
 

@@ -1,5 +1,3 @@
-Perfect 😃 here’s a clean **starter README template** you can copy-paste into your `DSA-Java` repo and tweak as you go:
-
 ---
 
 # 🧩 DSA in Java

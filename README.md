@@ -68,7 +68,7 @@ java FileName
 ```
 
 ---
-![Vidhika's GitHub stats](https://leetcard.jacoblin.cool/vidhikamangla?theme=synthwave&font=Poppins&ext=heatmap)
+![Vidhika's GitHub stats](https://leetcard.jacoblin.cool/vidhikamangla?theme=radical&font=Poppins&ext=heatmap)
 
 ## Goals
 

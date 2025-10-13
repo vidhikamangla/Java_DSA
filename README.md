@@ -52,7 +52,7 @@ DSA-Java/
 
 | Difficulty | Solved | 
 | ---------- | ------ | 
-| Easy       | 10+    | 
+| Easy       | 20+    | 
 | Medium     | 5+     | 
 | Hard       | 0      | 
 
